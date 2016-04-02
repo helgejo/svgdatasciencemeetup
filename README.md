@@ -14,6 +14,7 @@
 10. Using Azure cloud architecture for data science
 11. IoT and working with sensor signals
 
-| Date          | Presenter           | Title  |
-| ------------- |:-------------:      | -----: |
-|        |  |   |
+| Date          | Presenter           | Title                                                              |
+| ------------- |:-------------------:| -----------------------------------------------------------------: |
+| 07.Apr 16     | Helge J. Bjorland   | [Data Science hypes and reality: What is it and how to get started](https://speakerdeck.com/helgejo/data-science-hypes-and-reality)|
+|               |                     |                                                                    | 
