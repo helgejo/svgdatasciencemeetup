@@ -2,19 +2,20 @@
 ## Possible topics for future meetups
 [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-1. Intro to machine learning
-2. Refining the crude – Preparing big data for machine learning
-3. Using Tensorflow to create neural networks
-4. Using Caravel for data exploration
-5. Time series decomposition & SAX for machine learning
-6. Process mining
-7. Efficient data wrangling techniques
-8. Lean methodology in data science
-9. Managing a data science team
-10. Using Azure cloud architecture for data science
-11. IoT and working with sensor signals
+* Intro to machine learning
+* Refining the crude – Preparing big data for machine learning
+* Using Tensorflow to create neural networks
+* Using Caravel for data exploration
+* Time series decomposition & SAX for machine learning
+* Process mining
+* Efficient data wrangling techniques
+* Lean methodology in data science
+* Visualisations J3
+* Creating data products with R
+* Financial forecasting with machine learning
+
 
 | Date          | Presenter           | Title                                                              |
 | ------------- |:-------------------:| -----------------------------------------------------------------: |
 | 07.Apr 16     | Helge J. Bjorland   | [Data Science hypes and reality: What is it and how to get started](https://speakerdeck.com/helgejo/data-science-hypes-and-reality)|
-|               |                     |                                                                    | 
+| 4. May 16?         |Bikash Agrawal       | [Kaggle case walkthrough: Restaurant Revenue Prediction](https://www.kaggle.com/c/restaurant-revenue-prediction)| 
